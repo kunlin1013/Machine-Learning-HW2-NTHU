@@ -10,16 +10,19 @@
 
 ![image](https://github.com/kunlin1013/Machine-Learning-HW2-NTHU/assets/78029945/b2d10fd9-6db4-4068-bc1a-f1bf33c6c550)
 
-## HW2.py
+## HW2.ipynb
 HW2的程式檔案
 
 ## 函示庫版本
 numpy                     1.17.0
+
 opencv-python             4.5.4.60
+
 scikit-learn              1.0.2
+
 matplotlib                3.3.2
 
-有了以上函示庫，還須將Data_test、Data_train這兩個資料集放在與HW2.py同個資料夾路徑下，即可執行程式碼。
+有了以上函示庫，還須將Data_test、Data_train這兩個資料集放在與HW2.ipynb同個資料夾路徑下，即可執行程式碼。
 
 ## HW2_111061528_Programming.pdf
 HW2詳細作法，裡面標題1、2、3、4分別對應到Part 2. Programming assignment中的1~4小題。
